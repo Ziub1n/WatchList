@@ -1,0 +1,48 @@
+Tytuł: Gwiezdne Wojny: Nowa Nadzieja
+Reżyser: Lucas
+Rok: 1977
+Gatunek: sci-fi
+Status: klasyk
+Ocena: 4.9
+Opis: Epicka przygoda w kosmosie, która zdefiniowała gatunek science fiction i rozpoczęła jedną z najbardziej ikonicznych serii w historii kina.
+
+Tytuł: Incepcja
+Reżyser: Nolan
+Rok: 2010
+Gatunek: thriller
+Status: w dystrybucji
+Ocena: 4.8
+Opis: Złożony thriller psychologiczny o złodziejach, którzy infiltrują sny, aby kraść i manipulować wspomnieniami.
+
+Tytuł: Król Lew
+Reżyser: Allers
+Rok: 1994
+Gatunek: animacja
+Status: klasyk
+Ocena: 4.7
+Opis: Wzruszająca animacja o dorastaniu i odpowiedzialności, opowiadająca historię lwiątka Simby, przyszłego króla sawanny.
+
+Tytuł: Forrest Gump
+Reżyser: Zemeckis
+Rok: 1994
+Gatunek: dramat
+Status: klasyk
+Ocena: 4.8
+Opis: Opowieść o niezwykłym życiu prostodusznego mężczyzny, którego niewinność i determinacja prowadzą go przez kluczowe momenty amerykańskiej historii XX wieku.
+
+Tytuł: Titanic
+Reżyser: Cameron
+Rok: 1997
+Gatunek: romans
+Status: klasyk
+Ocena: 4.5
+Opis: Romantyczna tragedia osadzona na tle historycznego zatonięcia Titanica, opowiadająca o zakazanej miłości między pasażerami z różnych klas społecznych.
+
+Tytuł: Joket
+Reżyser: chujek
+Rok: 100
+Gatunek: s
+Status: s
+Ocena: 5.0
+Opis: 
+
